@@ -1,4 +1,4 @@
 Welcome to my Git Tutorial
 
-Have fun. Enjoy!
+Have fun. Enjoy! Jerome Stephanie
 Twitter: @stephjerome
